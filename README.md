@@ -12,6 +12,7 @@ Put each group members name, archetype, and a link to their page that explains w
 
 ## Archtypes 1-12
 - [Explorer](explorer.md)
+- [Ruler - Thomas](ruler.md)
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
 ### Modernism - 6 styles
