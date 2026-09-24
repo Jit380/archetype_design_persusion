@@ -5,6 +5,10 @@
 2.  Ask the Ai why it thinks this is your brand archetype.
 3.  Ask the Ai for the imagery, colors, fonts, and phrasing for examples of Robert Cialdini's methods of persuasion
 
+### - First Assignment
+Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
+1. [Keith Williams](Keith_williams.md) 
+
 ## Archtypes 1-12
 - [Explorer](explorer.md)
 ## Methods of Persusion 1-7 Cialdini
