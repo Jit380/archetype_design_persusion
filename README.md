@@ -7,8 +7,8 @@
 
 ### - First Assignment
 Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
-1. [Keith Williams](Keith_williams.md)
-2. [Thomas Vivas](Thomas_vivas.md)
+1. [Keith Williams](keith_williams.md)
+2. [Thomas Vivas](thomas_vivas.md)
 
 ## Archtypes 1-12
 - [Explorer](explorer.md)
