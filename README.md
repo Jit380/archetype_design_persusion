@@ -9,9 +9,9 @@
 Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
 1. [Keith Williams](keith_williams.md)
 2. [Thomas Vivas](thomas_vivas.md)
-3. [Jit Patel](jit_patel.vivas.md)
-4. [Jay Ortega](jay_ortega.vivas.md)
-5. [Pranjal Patel](pranjal_patel.vivas.md)
+3. [Jit Patel](jit_patel.md)
+4. [Jay Ortega](jay_ortega.md)
+5. [Pranjal Patel](pranjal_patel.md)
 ## Archtypes 1-12
 - [Explorer](explorer.md)
 - [Ruler - Thomas](ruler.md)
