@@ -9,5 +9,5 @@
 - [Explorer](explorer.md)
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
-### Modernism - 6 sub movements
-### Post Modernism - 6 sub movements 
+### Modernism - 6 styles
+### Post Modernism - 6 styles 
