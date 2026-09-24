@@ -1,6 +1,7 @@
 # Brand Archetypes, Design Styles, and Methods of Persusion
 
 ## Archtypes 1-12
+- [Explorer](explorer.md)
 ## Methods of Persusion 1-7
 ## Design Styles within modernism and postmodernism
 ### Modernism
