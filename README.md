@@ -12,16 +12,19 @@ Put each group members name, archetype, and a link to their page that explains w
 3. [Jay Ortega](jay_ortega.md)
 4. [Pranjal Patel](pranjal_patel.md)
 
+## Topic Assignments
+
 | Member | Role | Topic |
 |---|---|---|
 | Jit Patel | Project Lead | Brand Archetypes |
 | Jay Ortega | Team Member | Principles of Persuasion |
-| Pranjal Patel | Team Member | Modernist and Postmodernist Design |
+| Pranjal Patel | Team Member | Modernist Design |
+| Lekha Saravanakumar | Team Member | Postmodernist Design |
  
 
 ## Archtypes 1-12
 - [Explorer](archetypes/explorer.md)
-- [Ruler - Thomas](ruler.md)
+
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
 ### Modernism - 6 styles
