@@ -7,11 +7,10 @@
 
 ### - First Assignment
 Put each group members name, archetype, and a link to their page that explains why that archetype was chosen and if they agree
-1. [Keith Williams](keith_williams.md)
-2. [Thomas Vivas](thomas_vivas.md)
-3. [Jit Patel](jit_patel.md)
-4. [Jay Ortega](jay_ortega.md)
-5. [Pranjal Patel](pranjal_patel.md)
+1. [Jit Patel](jit_patel.md)
+2. [Lekha Saravanakumar](lekha_saravanakumar.md)
+3. [Jay Ortega](jay_ortega.md)
+4. [Pranjal Patel](pranjal_patel.md)
 
 | Member | Role | Topic |
 |---|---|---|
