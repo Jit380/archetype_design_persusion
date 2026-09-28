@@ -18,4 +18,4 @@ Each archetype page will explain:
 The remaining archetype pages will be added in Assignment Three.
 
 [Back to Main README](../README.md)
- Copy README content
+ 
