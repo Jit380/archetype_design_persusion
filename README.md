@@ -12,6 +12,14 @@ Put each group members name, archetype, and a link to their page that explains w
 3. [Jit Patel](jit_patel.md)
 4. [Jay Ortega](jay_ortega.md)
 5. [Pranjal Patel](pranjal_patel.md)
+
+| Member | Role | Topic |
+|---|---|---|
+| Jit Patel | Project Lead | Brand Archetypes |
+| Jay Ortega | Team Member | Principles of Persuasion |
+| Pranjal Patel | Team Member | Modernist and Postmodernist Design |
+ 
+
 ## Archtypes 1-12
 - [Explorer](explorer.md)
 - [Ruler - Thomas](ruler.md)
