@@ -172,15 +172,14 @@ The style demonstrates a major Postmodernist idea: design can communicate person
 
 ## Sources
 
-- Design Museum — Memphis
-- Metropolitan Museum of Art — Design, 1975–2000
-- Victoria and Albert Museum — Postmodern Design
-- Memphis Milano — History
-- Vitra Design Museum — Memphis: 40 Years of Kitsch and Elegance
+- [Design Museum — Memphis](https://designmuseum.org/memphis)
+- [The Metropolitan Museum of Art — Design, 1975–2000](https://www.metmuseum.org/essays/design-1975-present)
+- [Victoria and Albert Museum — Postmodern Design](https://www.vam.ac.uk/info/collection-selection-boxes-postmodern-design)
+- [Victoria and Albert Museum — Postmodernism Teacher Resource](https://www.vam.ac.uk/__data/assets/pdf_file/0010/179488/teachers_resource_postmodernism.pdf)
 
 ## Image Credits
 
-Images used on this page should be credited with the creator, title, source, and license when applicable.
+The Carlton Bookcase and Super Lamp images on this page were generated with AI for this project as visual references. They are not historical photographs of the original objects.
 
 ## Images
 
