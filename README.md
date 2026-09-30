@@ -24,6 +24,7 @@ Put each group members name, archetype, and a link to their page that explains w
 
 ## Archtypes 1-12
 - [Explorer](archetypes/explorer.md)
+- [Hero](archetypes/hero.md)
 
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
