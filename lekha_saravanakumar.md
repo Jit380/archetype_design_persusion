@@ -72,10 +72,14 @@ Some phrases that connect with the Creator archetype are:
 - **Create. Transform. Become.**
 - **A different idea. A different experience.**
 - **Ordinary isn't the goal.**
-- **Reimagine what's possible.** :contentReference[oaicite:5]{index=5}
+- **Reimagine what's possible.**
+
+## GitHub Issues
+
+- [Issue #6](https://github.com/Jit380/archetype_design_persusion/issues/6) — Created the Memphis Design Postmodernist sample page, including the Postmodernist Design index, research, design characteristics, examples, images, sources, and image credits.
 
 ## Personal Archetype Statement
 
-**I want to create something that didn't exist before—and make people experience something differently because of it.** :contentReference[oaicite:6]{index=6}
+**I want to create something that didn't exist before—and make people experience something differently because of it.**
 
 [Back to Main README](README.md)
