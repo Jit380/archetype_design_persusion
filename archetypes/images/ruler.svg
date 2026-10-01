@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Ruler: a stable structure</title>
+  <desc id="desc">A precise gold crown sits above a symmetrical stone arch with a clear central passage.</desc>
+  <rect width="900" height="560" fill="#e8e4d9"/>
+  <path d="M0 425h900v135H0Z" fill="#a4aa9c"/>
+  <path d="M192 425V263a258 258 0 0 1 516 0v162h-93V269a165 165 0 0 0-330 0v156z" fill="#575e5b"/>
+  <path d="M450 121 486 212l96-43-18 104 104 17-91 54-127-70-127 70-91-54 104-17-18-104 96 43z" fill="#c8a24c"/>
+  <path d="M450 195v94m-46-47h92" stroke="#f3d98d" stroke-width="13" stroke-linecap="round"/>
+  <path d="M100 425h700" stroke="#343a38" stroke-width="14"/>
+</svg>

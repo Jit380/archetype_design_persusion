@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Creator: an idea takes shape</title>
+  <desc id="desc">A sweeping coral paint stroke curls around a newly formed blue geometric sculpture.</desc>
+  <rect width="900" height="560" fill="#f1eee5"/>
+  <path d="M80 390q160-340 330-150t400-88" fill="none" stroke="#e36b50" stroke-width="62" stroke-linecap="round"/>
+  <path d="m440 176 94 55v109l-94 55-94-55V231z" fill="#356a8a"/>
+  <path d="m440 176 94 55-94 57-94-57z" fill="#69a4ad"/>
+  <path d="m440 288 94-57v109l-94 55z" fill="#274a69"/>
+  <path d="m440 288-94-57v109l94 55z" fill="#4a8198"/>
+  <circle cx="709" cy="398" r="30" fill="#e8bb4d"/><circle cx="242" cy="180" r="18" fill="#7e9b61"/>
+  <path d="m144 105 14 37 39 2-30 25 10 37-33-21-33 21 10-37-30-25 39-2z" fill="#e8bb4d"/>
+</svg>

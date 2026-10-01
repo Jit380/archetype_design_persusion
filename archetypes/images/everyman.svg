@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Everyman: a place at the table</title>
+  <desc id="desc">A wooden neighborhood table is set with colorful cups and simple chairs.</desc>
+  <rect width="900" height="560" fill="#e9e6d9"/>
+  <path d="M0 388h900v172H0Z" fill="#8fae9c"/>
+  <path d="M105 278h690v47H105z" fill="#b86d48"/>
+  <path d="M155 325v167m590-167v167" stroke="#754c3c" stroke-width="24"/>
+  <path d="M294 200h74v78h-74z" fill="#df5e42"/><path d="M311 184h40v17h-40z" fill="#df5e42"/>
+  <path d="M487 210h76v68h-76z" fill="#e9be48"/><path d="M506 193h38v17h-38z" fill="#e9be48"/>
+  <path d="M670 218h65v60h-65z" fill="#4f8094"/><path d="M684 201h37v17h-37z" fill="#4f8094"/>
+  <path d="M180 380h80v98h-80m460-98h80v98h-80" fill="none" stroke="#48645e" stroke-width="18"/>
+  <path d="M0 434q155-50 285 3t300-3 315 0v126H0Z" fill="#72917e"/>
+</svg>

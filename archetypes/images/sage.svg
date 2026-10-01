@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Sage: the observatory</title>
+  <desc id="desc">A white observatory dome sits beneath a deep green night sky scattered with stars.</desc>
+  <rect width="900" height="560" fill="#173c42"/>
+  <circle cx="710" cy="120" r="54" fill="#e4d99e"/>
+  <g fill="#f4edc6"><circle cx="140" cy="115" r="4"/><circle cx="278" cy="80" r="5"/><circle cx="380" cy="175" r="3"/><circle cx="565" cy="88" r="4"/><circle cx="810" cy="265" r="4"/><circle cx="202" cy="260" r="3"/></g>
+  <path d="M0 390h900v170H0Z" fill="#285856"/>
+  <path d="M255 390a195 195 0 0 1 390 0Z" fill="#f1ead2"/>
+  <path d="M435 205h30v185h-30z" fill="#d0c8ac"/>
+  <path d="M270 390h360v105H270z" fill="#d9d3bd"/>
+  <path d="M395 495V390h110v105" fill="#173c42"/>
+  <path d="M450 228l104 150" stroke="#bb9a56" stroke-width="12"/>
+  <circle cx="450" cy="300" r="11" fill="#bb9a56"/>
+</svg>
