@@ -1,4 +1,4 @@
-# Lekha Saravanakumar — Brand Archetype
+# Lekha Saravanakumar - Brand Archetype
 
 ## Brand Archetype: Creator
 
@@ -75,7 +75,7 @@ Some phrases that connect with the Creator archetype are:
 
 ## GitHub Issues
 
-- [Issue #6](https://github.com/Jit380/archetype_design_persusion/issues/6) — Created the Memphis Design Postmodernist sample page, including the Postmodernist Design index, research, design characteristics, examples, images, sources, and image credits.
+- [Issue #6](https://github.com/Jit380/archetype_design_persusion/issues/6) - Created the Memphis Design Postmodernist sample page, including the Postmodernist Design index, research, design characteristics, examples, images, sources, and image credits.
 
 ## Personal Archetype Statement
 
