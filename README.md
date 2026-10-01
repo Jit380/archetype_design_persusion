@@ -23,8 +23,18 @@ Put each group members name, archetype, and a link to their page that explains w
  
 
 ## Archtypes 1-12
+- [Innocent](archetypes/innocent.md)
 - [Explorer](archetypes/explorer.md)
+- [Sage](archetypes/sage.md)
 - [Hero](archetypes/hero.md)
+- [Outlaw](archetypes/outlaw.md)
+- [Magician](archetypes/magician.md)
+- [Regular Guy/Gal (Everyman)](archetypes/everyman.md)
+- [Lover](archetypes/lover.md)
+- [Jester](archetypes/jester.md)
+- [Caregiver](archetypes/caregiver.md)
+- [Creator](archetypes/creator.md)
+- [Ruler](archetypes/ruler.md)
 
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism

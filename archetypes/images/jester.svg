@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Jester: a bright burst of laughter</title>
+  <desc id="desc">A golden sun with a mischievous face sends colorful confetti across a turquoise sky.</desc>
+  <rect width="900" height="560" fill="#39a6a4"/>
+  <path d="m80 110 24 42 48-10-23 43 30 39-49-4-24 43-12-48-48-10 40-28z" fill="#f05d5e"/>
+  <path d="m763 300 20 35 41-6-23 33 23 33-41-6-20 35-6-41-39-13 39-12z" fill="#f5d14d"/>
+  <circle cx="440" cy="280" r="170" fill="#f5d14d"/>
+  <path d="M342 240q24-30 48 0m102 0q24-30 48 0" fill="none" stroke="#323c4b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M362 325q78 94 156 0" fill="none" stroke="#323c4b" stroke-width="16" stroke-linecap="round"/>
+  <g fill="#f5eee1"><circle cx="215" cy="340" r="13"/><circle cx="650" cy="120" r="11"/><circle cx="700" cy="430" r="15"/><circle cx="205" cy="450" r="9"/></g>
+  <path d="m650 215 18 32 37 3-28 24 8 36-33-18-32 18 7-36-28-24 37-3z" fill="#ed6b4f"/>
+</svg>

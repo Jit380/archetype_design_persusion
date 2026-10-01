@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Lover: two flowers leaning together</title>
+  <desc id="desc">Two red and coral flowers lean toward each other against a soft rose background.</desc>
+  <rect width="900" height="560" fill="#f3d9d5"/>
+  <path d="M0 445q225-80 450 0t450 0v115H0Z" fill="#8eaa72"/>
+  <path d="M337 495q20-140 8-254m218 254q-20-140-8-254" fill="none" stroke="#587a52" stroke-width="16" stroke-linecap="round"/>
+  <path d="M346 390q-115-90-149 4 96 42 149-4m212 0q115-90 149 4-96 42-149-4" fill="#779b63"/>
+  <g fill="#d95056"><ellipse cx="345" cy="195" rx="40" ry="91"/><ellipse cx="345" cy="195" rx="40" ry="91" transform="rotate(60 345 195)"/><ellipse cx="345" cy="195" rx="40" ry="91" transform="rotate(120 345 195)"/></g>
+  <g fill="#ed795f"><ellipse cx="555" cy="195" rx="40" ry="91"/><ellipse cx="555" cy="195" rx="40" ry="91" transform="rotate(60 555 195)"/><ellipse cx="555" cy="195" rx="40" ry="91" transform="rotate(120 555 195)"/></g>
+  <circle cx="345" cy="195" r="33" fill="#f3c754"/><circle cx="555" cy="195" r="33" fill="#f3c754"/>
+</svg>

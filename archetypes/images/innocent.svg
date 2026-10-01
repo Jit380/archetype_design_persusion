@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Innocent: a clear morning</title>
+  <desc id="desc">A golden sun rises over a bright green field beneath a pale blue sky.</desc>
+  <rect width="900" height="560" fill="#d9f1ed"/>
+  <circle cx="450" cy="252" r="116" fill="#f5c84b"/>
+  <path d="M0 380 Q170 310 330 382 T650 370 T900 352 V560 H0Z" fill="#76b86e"/>
+  <path d="M0 450 Q210 390 410 455 T900 430 V560 H0Z" fill="#b5d77d"/>
+  <path d="M450 150v-52M450 357v-40M348 252h-52M604 252h-52M377 179l-37-37M560 326l-37-37M523 179l37-37" stroke="#fff7d3" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 440q25-50 50 0m70 25q20-40 40 0m370-15q22-44 44 0m55 28q16-32 32 0" fill="none" stroke="#367e59" stroke-width="8" stroke-linecap="round"/>
+</svg>

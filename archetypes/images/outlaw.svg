@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Outlaw: break the pattern</title>
+  <desc id="desc">A bright red lightning bolt cuts across a rigid charcoal grid.</desc>
+  <rect width="900" height="560" fill="#242528"/>
+  <g stroke="#4b4d50" stroke-width="2"><path d="M80 0v560M180 0v560M280 0v560M380 0v560M480 0v560M580 0v560M680 0v560M780 0v560M880 0v560"/><path d="M0 80h900M0 180h900M0 280h900M0 380h900M0 480h900"/></g>
+  <path d="M506 24 296 305h129L333 536l270-316H466Z" fill="#f04a3a"/>
+  <path d="m467 106-99 187h78l-52 151 142-202h-83l53-136" fill="#ffc857"/>
+  <path d="M82 87h118M720 444h112" stroke="#f3eee3" stroke-width="10"/>
+</svg>

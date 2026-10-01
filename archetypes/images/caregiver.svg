@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Caregiver: shelter for a new seedling</title>
+  <desc id="desc">A broad green hand curves protectively around a small seedling growing in dark soil.</desc>
+  <rect width="900" height="560" fill="#e4eee0"/>
+  <circle cx="450" cy="280" r="210" fill="#c6dfba"/>
+  <path d="M174 352q-39-44 1-82l116-105q37-33 72 2l53 54 86-33q37-14 57 20l59 98q25 43-10 79l-95 99q-33 34-74 6l-70-49-96 12q-54 7-74-43z" fill="#5b946c"/>
+  <path d="M389 346q42-72 91 0-43 39-91 0m-10 28q-42-72-91 0 43 39 91 0" fill="#83ae70"/>
+  <path d="M383 414q1-61 23-105m-23 105q-7-40-49-69m48 69q10-38 51-66" fill="none" stroke="#3c754e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M450 430q45 26 90 0" stroke="#614f43" stroke-width="10" stroke-linecap="round"/>
+</svg>
