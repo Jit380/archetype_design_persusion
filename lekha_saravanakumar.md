@@ -79,6 +79,6 @@ Some phrases that connect with the Creator archetype are:
 
 ## Personal Archetype Statement
 
-**I want to create something that didn't exist before—and make people experience something differently because of it.**
+**I want to create something that didn't exist before and make people experience something differently because of it.**
 
 [Back to Main README](README.md)
