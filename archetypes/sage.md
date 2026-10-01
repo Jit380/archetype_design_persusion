@@ -1,6 +1,6 @@
 # The Sage
 
-![Original illustration for the Sage archetype: a lit observatory beneath a field of stars](images/sage.svg)
+![Postmodern collage for the Sage archetype: open books and a leafy tree](images/sage.png)
 
 The Sage wants to understand what is true. It treats knowledge as a route to better judgment, not as decoration or a way to dominate a conversation. In the brand-archetype model, the Sage offers expertise, research, and perspective to people who want to make informed decisions. The audience is not asked to follow blindly; it is invited to look closely, ask questions, and see the reasoning.
 

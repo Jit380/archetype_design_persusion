@@ -1,6 +1,6 @@
 # The Magician
 
-![Original illustration for the Magician archetype: a doorway of light appearing in a deep blue night](images/magician.svg)
+![Postmodern collage for the Magician archetype: a hand presenting a glowing violet cosmic orb](images/magician.png)
 
 The Magician makes change feel possible. It is drawn to transformation: the moment when a familiar situation opens into a different one. In brand storytelling, the Magician promises more than a tool or service; it offers an experience that helps people move from an old state to a new one. The strongest version makes the transformation understandable and gives the audience a meaningful role in it.
 

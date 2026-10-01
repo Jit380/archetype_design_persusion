@@ -1,6 +1,6 @@
 # The Hero
 
-![Original illustration for the Hero archetype: a masked city rescuer swinging between rooftops on a golden cable](images/hero.svg)
+![Postmodern collage for the Hero archetype: a red-caped figure above a mountain peak](images/hero.png)
 
 The Hero sees a challenge and steps forward. It is driven to prove that effort, courage, and skill can make a real difference. In brand communication, the archetype promises strength for the task ahead: better equipment, useful training, or a cause worth showing up for. The strongest Hero brands do not make the customer feel small. They help people recognize what they can do.
 

@@ -1,6 +1,6 @@
 # The Caregiver
 
-![Original illustration for the Caregiver archetype: a green hand sheltering a small seedling](images/caregiver.svg)
+![Postmodern collage for the Caregiver archetype: two hands reaching toward one another among green leaves](images/caregiver.png)
 
 The Caregiver is motivated by the well-being of others. It notices needs, offers practical help, and wants people to feel protected rather than alone. In brand communication, the archetype promises dependable support. It may appear in healthcare, education, family services, or any organization where the relationship continues after the transaction. Its most persuasive quality is follow-through: care is something the audience can experience, not just an emotion in an advertisement.
 

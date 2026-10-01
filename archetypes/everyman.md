@@ -1,6 +1,6 @@
 # The Everyman
 
-![Original illustration for the Everyman archetype: a welcoming neighborhood table with ordinary cups and chairs](images/everyman.svg)
+![Postmodern collage for the Everyman archetype: a group of friends standing together against a blue circle](images/everyman.png)
 
 The Everyman, also called the Regular Guy or Gal, wants to belong without having to pretend. It values the everyday person and the small social rituals that make a place feel familiar. The archetype's promise is not that everyone is identical; it is that nobody needs special status or insider knowledge to take part. Its warmth comes from recognition, inclusion, and an unforced sense of being among peers.
 

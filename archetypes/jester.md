@@ -1,6 +1,6 @@
 # The Jester
 
-![Original illustration for the Jester archetype: a bright yellow sun with a playful confetti trail](images/jester.svg)
+![Postmodern collage for the Jester archetype: a laughing performer with a yellow jester hat and playful graphic marks](images/jester.png)
 
 The Jester reminds people that life is not only a list of duties. It finds humor in familiar situations, enjoys the present, and uses play to loosen rigid expectations. In branding, the Jester can make a product feel lively and approachable. Humor is its best-known tool, but its deeper value is permission: people can experiment, laugh at themselves, and enjoy the moment without needing to prove their seriousness.
 

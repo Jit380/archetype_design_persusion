@@ -1,6 +1,6 @@
 # The Ruler
 
-![Original illustration for the Ruler archetype: a precise gold crown above a stable architectural arch](images/ruler.svg)
+![Postmodern collage for the Ruler archetype: a crowned classical bust framed by architecture and gold marks](images/ruler.png)
 
 The Ruler seeks order, responsibility, and the ability to guide a complex situation toward stability. It is not only about crowns or luxury. In brand communication, the Ruler can represent dependable leadership, standards, and confidence that important details are under control. People turn to it when consistency matters and decisions carry consequences. Its authority is strongest when it is earned through competence and fair conduct.
 
