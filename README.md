@@ -39,4 +39,7 @@ Put each group members name, archetype, and a link to their page that explains w
 ## Methods of Persusion 1-7 Cialdini
 ## Design Styles within modernism and postmodernism
 ### Modernism - 6 styles
+-[Swiss Style](modernism/swiss-style.md)
 ### Post Modernism - 6 styles 
+-[Memphis Style](postmodernism/README.md)
+
