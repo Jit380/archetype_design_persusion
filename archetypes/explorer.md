@@ -1,5 +1,7 @@
 # Explorer
 
+![Postmodern collage for the Explorer archetype: a backpacker facing a mountain above a forest](images/explorer.png)
+
 The Explorer is one of the twelve brand archetypes Margaret Mark and Carol S. Pearson laid out in *The Hero and the Outlaw*. It sits with the Innocent and the Sage, the group that wants independence more than belonging. The promise is blunt. Don't fence me in. Let me find out who I am by going somewhere I have not been.
 
 That is why this archetype sells so well in outdoor gear, travel, and vehicles. The product is rarely the point. The product is a ticket out.

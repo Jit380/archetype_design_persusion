@@ -1,6 +1,6 @@
 # The Creator
 
-![Original illustration for the Creator archetype: a vivid paint stroke becoming a new geometric form](images/creator.svg)
+![Postmodern collage for the Creator archetype: hands holding a glowing bulb among paint strokes and tools](images/creator.png)
 
 The Creator wants to make something that did not exist before, or to give familiar things a new form. It values imagination, craft, and the satisfaction of shaping an idea into a real object or experience. In brand archetypes, the Creator offers tools, materials, or inspiration that help people express themselves. Its best work does not claim that creativity belongs to a gifted few; it gives people a way to begin.
 

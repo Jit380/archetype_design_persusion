@@ -14,4 +14,8 @@ My Rebel side comes from my desire to challenge people's expectations and live l
 ## Do I Agree?
 
 Yes, I agree with this archetype because I enjoy being challenged and proving that I can accomplish things people might not expect from me. I am ambitious and determined, but I also love having fun, making people laugh, and making others feel included. I think the Hero archetype represents my drive to succeed, while the Rebel and Jester reflect my individuality and personality.
+
+## Jit's Issues
+
+![Jit's open GitHub issues](archetypes/images/Screenshot%202026-10-02%20235131.png)
   

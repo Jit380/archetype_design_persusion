@@ -1,6 +1,6 @@
 # The Innocent
 
-![Original illustration for the Innocent archetype: a bright sunrise over an open field](images/innocent.svg)
+![Postmodern collage for the Innocent archetype: a white dove and flowers against a blue circle](images/innocent.png)
 
 The Innocent is drawn toward a life that feels good, uncomplicated, and true. In brand-archetype writing, this character is not simply naive or childish. At its strongest, the Innocent holds on to hope without denying that the world can be difficult. Its promise is that people can find goodness, safety, and small moments of joy without having to become cynical first.
 

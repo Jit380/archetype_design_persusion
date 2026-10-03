@@ -1,6 +1,6 @@
 # The Lover
 
-![Original illustration for the Lover archetype: two red flowers leaning toward each other](images/lover.svg)
+![Postmodern collage for the Lover archetype: a portrait surrounded by vivid red and pink flowers](images/lover.png)
 
 The Lover is about attention and connection. It notices beauty, values sensory experience, and wants relationships to feel meaningful rather than transactional. Although romance is one expression of the archetype, the Lover also includes friendship, devotion, care for craft, and appreciation of the body and senses. Its brand promise is to make an experience feel more intimate, expressive, or worthy of savoring.
 

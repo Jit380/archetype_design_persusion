@@ -1,6 +1,6 @@
 # The Outlaw
 
-![Original illustration for the Outlaw archetype: a vivid red lightning bolt breaking a rigid grid](images/outlaw.svg)
+![Postmodern collage for the Outlaw archetype: a heavy chain breaking across a red brush stroke](images/outlaw.png)
 
 The Outlaw questions the rules that keep people small. It is attracted to the outsider, the dissenter, and the person willing to name a problem everyone else has accepted. In brand communication, the Outlaw promises release from convention. The rebellion can be playful or serious, but it needs a real target: without one, provocation is just noise in a leather jacket.
 
